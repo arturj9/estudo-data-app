@@ -1,5 +1,12 @@
 # Estudo - Data App
 
+## Demo
+
+Acesse a versão publicada:
+https://arturj9-estudo-data-app-app-fq680k.streamlit.app/
+
+Ou clique: [Abrir demo](https://arturj9-estudo-data-app-app-fq680k.streamlit.app/)
+
 ## Descrição
 Uma aplicação de dados para fins de estudo do Streamlit. 
 
